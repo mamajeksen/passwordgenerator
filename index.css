@@ -33,6 +33,7 @@ button {
 hr {
     border: #2F3E53 solid 0.1px;
     margin: 0 0 40px 0;
+    width: 460px;
 }
     
 #input-fields {
@@ -40,9 +41,10 @@ hr {
 }
 
 .pass-field {
-    width: 150px;
+    width: 180px;
+    height: 10px;
     background-color: #273549;
-    padding: 10px 25px;
+    padding: 15px 20px 20px 15px;
     border-radius: 5px;
     text-align: center;
     color: #55F991;
